@@ -1,4 +1,4 @@
-# telegram-tag-bot
+# TeleTag
 This bot is useful for tagging people in a telegram
 
 # Usage, Clonned
