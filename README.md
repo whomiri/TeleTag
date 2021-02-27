@@ -24,3 +24,5 @@ This bot is useful for tagging people in a telegram
 [Yusuf Usta](https://github.com/yusufusta)
 
 [James](t.me/kortisa)
+
+[Alok](https://github.com/alok760)
