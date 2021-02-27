@@ -11,6 +11,13 @@ This bot is useful for tagging people in a telegram
 `pip3 install --requirement requirements.txt`
 
 
+# My Account
+
+[Telegram](https://t.me/TheMiri)
+[Instagram](https://instagram.com/whomiri/)
+[GitHub](https://github.com/whomiri)
+
 # Credit, Thanks for py
 
-[Yusuf](https://github.com/yusufusta)
+[Yusuf Usta](https://github.com/yusufusta)
+[James](t.me/kortisa)
